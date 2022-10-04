@@ -1,0 +1,11 @@
+.hello {
+  background-color: whitesmoke;
+  width: 80%;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 0.5px solid grey;
+  padding: 10px;
+}
